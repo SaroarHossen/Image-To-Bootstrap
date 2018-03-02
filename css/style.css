@@ -1,0 +1,52 @@
+*{margin: 0;padding: 0;}
+header{}
+.header_row{width: 80%;margin: 0 auto;}
+.common_bg{background-color: #63C1AF;}
+.common_bg1{background-color: #EAEAEA;}
+.logo_margin{margin-top: 20px;}
+nav{width: 97%;margin: 0 auto;}
+.navbar-nav li a{color: white;}
+.navbar-nav li a:hover{background-color: black;}
+.nav_margin1{margin-top: 23px;margin-left: 81px;}
+.nav_margin2{margin-top: 23px;margin-right: 81px;}
+.bg{background-size: cover;width: 91.2%;margin: 0 auto;}
+.icon_margin{margin-top: 40px;}
+.social_icon{}
+.position1{position: relative;}
+.position2 {
+    position: absolute;
+    right: 11%;
+    top: 47%;
+}
+.list-inline li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 1px solid white;
+    border-radius: 27px;
+    background-color: #B7C0C5;
+}
+.list-inline li a{}
+.feature_width{margin: 0 auto;width: 80%;}
+.h1{font-size: 27px;}
+.feature_heading{margin-left: 16px;}
+.traded_heading{margin-left: 16px;}
+.btn-info{margin-top: 38px;
+    margin-left: 178px;}
+.margin1{margin-top: 20px;margin-left: 13px;margin-bottom: 20px;}
+.margin2{margin-left: 50px;}
+.margin3{margin-top: 20px;margin-left: 100px;margin-bottom: 20px;width: 83%;}
+.margin4{margin-left: 20px;}
+.body_bg{background-image: url(../img/images.jpg)}
+.image_width{margin: 0 auto;width: 80%;margin-left: 117px;}
+.most_read_heading{margin-left: 100px;}
+.publishers_button {
+    margin-top: 15px;
+    margin-left: 17px;
+}
+.text{text-align: justify;}
+.margin5{margin-top: 10px;}
+.bg1{background-color: #222;}
+.bg2{background-color: #000000;}
+.text_color{color: white;}
+.margin6{margin: 50px 0px;}
